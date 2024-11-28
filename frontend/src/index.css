@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero{
+    font-family: "Libre Baskerville", serif;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+.ql-editor{
+    min-height:400px;
+}
+::file-selector-button {
+    display: none;
+  }
