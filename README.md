@@ -4,4 +4,10 @@ This is a full-stack blog website built using the MERN stack (MongoDB, Express, 
 
 
 ## Demo
+![bbb1](https://github.com/user-attachments/assets/fd1cc4c6-00e4-41f7-b6e6-76e5e97221fa)
 
+
+![bbb2](https://github.com/user-attachments/assets/603ab7d1-4439-49fc-b1b0-4b81d1fc43fe)
+
+
+![bbb3](https://github.com/user-attachments/assets/26a33683-0253-4b01-9ec1-381a42e623e7)
